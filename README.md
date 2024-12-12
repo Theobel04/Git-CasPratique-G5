@@ -1,5 +1,16 @@
 # CasPratique : *Versioning avec Git et GitHub*
 
+
+Bayane BOURAIMA = Eleve 3
+
+William Sage = Eleve 2
+
+Bellamine Theo = Eleve 1
+
+
+
+
+
 ### Modalités
 
 Durée : 1h30
